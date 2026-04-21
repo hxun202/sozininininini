@@ -4,19 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program
-{
-    internal class Archer : Soldier
+    internal class Knight : Soldier
     {
-        public Archer()
+        public Knight()
         {
-            health = 175;
-            defense = 0;
+            health = 200;
+            defense = 5;
         }
 
         public override void Attack()
         {
-            Console.WriteLine("Archer Attack\n");
+            Console.WriteLine("Knight Attak\n");
         }
     }
-}
+

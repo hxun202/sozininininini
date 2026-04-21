@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class1th (Garbage Collectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class2th (Parameter Modifier)", "..\Class2th (Parameter Modifier)\Class2th (Parameter Modifier).csproj", "{73BC4639-412B-46AB-95B7-95E2C56B2C28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3th (Abstract Class)", "..\Class3th (Abstract Class)\Class3th (Abstract Class).csproj", "{78A42070-8C9D-49D5-957A-971865C2AC57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{73BC4639-412B-46AB-95B7-95E2C56B2C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73BC4639-412B-46AB-95B7-95E2C56B2C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73BC4639-412B-46AB-95B7-95E2C56B2C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A42070-8C9D-49D5-957A-971865C2AC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A42070-8C9D-49D5-957A-971865C2AC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A42070-8C9D-49D5-957A-971865C2AC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A42070-8C9D-49D5-957A-971865C2AC57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
