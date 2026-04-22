@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program
-{
-    internal class Switch
+    internal interface IActivatable
     {
+        public void Activate();
     }
-}

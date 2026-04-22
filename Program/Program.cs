@@ -5,9 +5,7 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Frame frame = new Frame();
-
-            frame.Select();
+         
         }
     }
 }
