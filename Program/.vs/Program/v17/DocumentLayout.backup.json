@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|c:\\users\\administrator\\desktop\\sozininininini\\program\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|c:\\users\\administrator\\desktop\\sozininininini\\program\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|solutionrelative:knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|c:\\users\\administrator\\desktop\\sozininininini\\program\\grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|solutionrelative:grenade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|c:\\users\\administrator\\desktop\\sozininininini\\program\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8BB990-EA1D-4AFF-8BEA-644F7C9AB8C4}|Program.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B465F608-B670-4575-8D6A-1CC8A346BCC4}|..\\Class11th (Interface Segregation Principle)\\Class11th (Interface Segregation Principle).csproj|c:\\users\\administrator\\desktop\\sozininininini\\class11th (interface segregation principle)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -101,24 +117,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Damageable.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Damageable.cs",
-              "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Damageable.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Damageable.cs",
-              "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Damageable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Grenade.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Grenade.cs",
+              "RelativeDocumentMoniker": "Grenade.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Grenade.cs",
+              "RelativeToolTip": "Grenade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:24:03.67Z",
+              "WhenOpened": "2026-05-07T12:17:58.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Knife.cs",
+              "RelativeDocumentMoniker": "Knife.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Knife.cs",
+              "RelativeToolTip": "Knife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:17:48.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:16:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:27:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Guide.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Guide.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Guide.cs",
@@ -126,12 +181,11 @@
               "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Guide.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:23:59.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T12:23:59.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Sellable.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Sellable.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Sellable.cs",
@@ -139,12 +193,11 @@
               "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Sellable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:23:54.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T12:23:54.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Seller.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Seller.cs",
@@ -152,12 +205,11 @@
               "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Seller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:23:47.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T12:23:47.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Sentinel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Sentinel.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Sentinel.cs",
@@ -165,12 +217,11 @@
               "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Sentinel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:23:42.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T12:23:42.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Talkable.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Talkable.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Talkable.cs",
@@ -178,12 +229,11 @@
               "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Talkable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:23:10.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T12:23:10.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Program.cs",
@@ -191,12 +241,11 @@
               "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T12:22:27.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T12:22:27.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class8th (Delegate)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class8th (Delegate)\\Program.cs",
@@ -204,12 +253,11 @@
               "RelativeToolTip": "..\\Class8th (Delegate)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:07:26.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T11:07:26.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class7th (Enumerator)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class7th (Enumerator)\\Program.cs",
@@ -217,12 +265,11 @@
               "RelativeToolTip": "..\\Class7th (Enumerator)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:06:59.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T11:06:59.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class10th (Open Closed Principle)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Open Closed Principle)\\Program.cs",
@@ -230,12 +277,11 @@
               "RelativeToolTip": "..\\Class10th (Open Closed Principle)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:06:03.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T11:06:03.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class6th (Collections)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class6th (Collections)\\Program.cs",
@@ -243,12 +289,36 @@
               "RelativeToolTip": "..\\Class6th (Collections)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:04:51.505Z",
+              "WhenOpened": "2026-05-06T11:04:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:14:37.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 6,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Damageable.cs",
+              "RelativeDocumentMoniker": "..\\Class11th (Interface Segregation Principle)\\Damageable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class11th (Interface Segregation Principle)\\Damageable.cs",
+              "RelativeToolTip": "..\\Class11th (Interface Segregation Principle)\\Damageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T12:24:03.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Barracks.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class3th (Abstract Class)\\Barracks.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Abstract Class)\\Barracks.cs",
@@ -260,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Archer.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class3th (Abstract Class)\\Archer.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Abstract Class)\\Archer.cs",
@@ -272,20 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Program\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:14:37.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class9th (Single Responsibility Principle)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class9th (Single Responsibility Principle)\\Program.cs",
@@ -293,12 +350,11 @@
               "RelativeToolTip": "..\\Class9th (Single Responsibility Principle)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:07:52.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T11:07:52.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class4th (Interface)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Program.cs",
@@ -310,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Guard.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class3th (Abstract Class)\\Guard.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Abstract Class)\\Guard.cs",
@@ -322,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Soldier.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class3th (Abstract Class)\\Soldier.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Abstract Class)\\Soldier.cs",
@@ -334,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Knight.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class3th (Abstract Class)\\Knight.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Abstract Class)\\Knight.cs",
@@ -346,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class3th (Abstract Class)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class3th (Abstract Class)\\Program.cs",
@@ -358,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class2th (Parameter Modifier)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class2th (Parameter Modifier)\\Program.cs",
@@ -370,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class5th (Generalization)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class5th (Generalization)\\Program.cs",
@@ -382,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Obstacle.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class5th (Generalization)\\Obstacle.cs",
               "RelativeDocumentMoniker": "..\\Class5th (Generalization)\\Obstacle.cs",
@@ -394,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class1th (Garbage Collection)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class1th (Garbage Collection)\\Program.cs",
@@ -406,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Factory.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class5th (Generalization)\\Factory.cs",
               "RelativeDocumentMoniker": "..\\Class5th (Generalization)\\Factory.cs",
@@ -418,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Frame.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class4th (Interface)\\Frame.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Frame.cs",
@@ -430,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Clock.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class4th (Interface)\\Clock.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Clock.cs",
@@ -442,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Switch.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class4th (Interface)\\Switch.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Switch.cs",
@@ -454,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Selectable.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class4th (Interface)\\Selectable.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Selectable.cs",
@@ -466,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Activatable.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sozininininini\\Class4th (Interface)\\Activatable.cs",
               "RelativeDocumentMoniker": "..\\Class4th (Interface)\\Activatable.cs",
