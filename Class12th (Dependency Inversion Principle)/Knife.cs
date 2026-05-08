@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Program
-{
+﻿
     internal class Knife : Weapon
     {
         public Knife()
@@ -19,4 +12,4 @@ namespace Program
             Console.WriteLine("Knife Stab");
         }
     }
-}
+

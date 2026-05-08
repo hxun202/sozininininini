@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Program
-{
+﻿
     internal abstract class Weapon
     {
         protected int range;
@@ -13,4 +6,4 @@ namespace Program
 
         public abstract void Attack();
     }
-}
+
